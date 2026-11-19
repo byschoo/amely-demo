@@ -95,7 +95,8 @@ una ilustración SVG dibujada para este proyecto, sin fotos ni recursos de terce
 ## Referencias de diseño
 
 - **21st.dev (sólo como referencia de patrones, sin copiar código):** el abanico de tartas del hero sigue la idea
-  de «Hero Section with Cards» (@scrollxui) y la carta, la de «Shop by Category Grid» (@ziegfiroyt) y «Menu Item
+  de «Hero Section with Cards» (@scrollxui); en móvil, el abanico giratorio, la de «Card Fan Carousel»
+  (@aayush-duhan, sin su GSAP); y la carta, la de «Shop by Category Grid» (@ziegfiroyt) y «Menu Item
   Card» (@ravikatiyar162). Todo se ha escrito desde cero para Amely con Tailwind y Motion. La barra fija ya no
   adapta «Morphing Scroll Navbar»: ahora es estática.
 - **Stitch:** sistema de diseño «Amely Pastel» (acción frambuesa #C72C5C, formas redondeadas). La imagen
