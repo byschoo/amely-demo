@@ -90,8 +90,7 @@ mostrarlas (CSS).
 El logotipo (nombre en Fraunces con la cereza por punto, `src/components/brand/logo.tsx`) es original de este
 proyecto. El icono de la tarta que gira, con su marco de blonda (`src/components/brand/turntable-cake.tsx`), es
 una ilustración SVG dibujada para este proyecto, sin fotos ni recursos de terceros; `public/favicon.png` y
-`public/apple-touch-icon.png` son esa misma ilustración exportada a PNG. El «Amely.» en baldosas del pie
-(`src/components/brand/tile-wordmark.tsx`) también es original: formas SVG dibujadas para este proyecto.
+`public/apple-touch-icon.png` son esa misma ilustración exportada a PNG.
 
 ## Referencias de diseño
 
