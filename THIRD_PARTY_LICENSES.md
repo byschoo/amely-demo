@@ -100,8 +100,7 @@ fundadora (`src/components/ui/postage.tsx`) también son dibujos SVG originales 
   (@aayush-duhan, sin su GSAP); y la carta, la de «Shop by Category Grid» (@ziegfiroyt) y «Menu Item
   Card» (@ravikatiyar162); el menú móvil, la de «Immersive Full Screen Navigation» (@hyperiux: apertura con
   clip-path y enlaces que aparecen escalonados) y «Liquid Morph Floating Menu» (@aayush-duhan: botón que se
-  transforma); y el menú del logotipo, la de «Sidebar» (Wensity, variante flotante: grupos con rótulo y una
-  píldora que se desliza hasta la entrada activa). Todo se ha escrito desde cero para Amely con Tailwind y Motion. La barra fija ya no
+  transforma). Todo se ha escrito desde cero para Amely con Tailwind y Motion. La barra fija ya no
   adapta «Morphing Scroll Navbar»: ahora es estática.
 - **Stitch:** sistema de diseño «Amely Pastel» (acción frambuesa #C72C5C, formas redondeadas). La imagen
   generada por Stitch no se usa: es una tarta creada por IA y no un producto de Amely.
